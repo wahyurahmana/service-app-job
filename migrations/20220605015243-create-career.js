@@ -20,7 +20,7 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       authorId: {
-        type: Sequelize.INTEGER
+        type: Sequelize.STRING
       },
       jobType: {
         type: Sequelize.STRING,
